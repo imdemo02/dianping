@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff8becb9-ffa6-4830-938d-70fb6c8fb3f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ff8becb9-ffa6-4830-938d-70fb6c8fb3f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +200,7 @@
       <workItem from="1679055145011" duration="8000" />
       <workItem from="1679055165531" duration="10000" />
       <workItem from="1679115628181" duration="1199000" />
-      <workItem from="1679120080873" duration="330000" />
+      <workItem from="1679120080873" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1679120259557</created>
@@ -211,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679120259557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化项目">
+      <created>1679120684512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679120684512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
