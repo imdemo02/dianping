@@ -8,11 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/FollowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/FollowController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IFollowService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IFollowService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/utils/RedisConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/utils/RedisConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +212,7 @@
       <workItem from="1679115628181" duration="1199000" />
       <workItem from="1679120080873" duration="2055000" />
       <workItem from="1679123683284" duration="820000" />
-      <workItem from="1679187576178" duration="4619000" />
+      <workItem from="1679187576178" duration="8135000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1679120259557</created>
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679120933600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加关注功能">
+      <created>1679192887944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679192887944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="添加redis本地地址" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加redis本地地址" />
+    <MESSAGE value="添加关注功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加关注功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
