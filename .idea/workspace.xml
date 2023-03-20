@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8becb9-ffa6-4830-938d-70fb6c8fb3f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_6_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm-dianping/src/test/java/com/hmdp/HmDianPingApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/test/java/com/hmdp/HmDianPingApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +63,12 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -85,6 +94,22 @@
       <option name="PACKAGE_NAME" value="com.hmdp" />
       <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.loadShopData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="loadShopData" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HmDianPingApplicationTests.loadShopData" />
         <item itemvalue="JUnit.com.hmdp.utils in hm-dianping" />
         <item itemvalue="JUnit.HmDianPingApplicationTests.testSaveShop" />
         <item itemvalue="JUnit.HmDianPingApplicationTests.testIdWork" />
@@ -207,6 +233,9 @@
       <workItem from="1679120080873" duration="2055000" />
       <workItem from="1679123683284" duration="820000" />
       <workItem from="1679187576178" duration="14498000" />
+      <workItem from="1679278263564" duration="3742000" />
+      <workItem from="1679284062385" duration="216000" />
+      <workItem from="1679284298687" duration="4328000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1679120259557</created>
@@ -250,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679207985317</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="更改地址">
+      <created>1679278423107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679278423107</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +310,8 @@
     <MESSAGE value="添加关注功能" />
     <MESSAGE value="添加用户共同关注功能" />
     <MESSAGE value="实现滚动分页查询" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现滚动分页查询" />
+    <MESSAGE value="更改地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改地址" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
