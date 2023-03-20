@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff8becb9-ffa6-4830-938d-70fb6c8fb3f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hm-dianping/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +206,7 @@
       <workItem from="1679115628181" duration="1199000" />
       <workItem from="1679120080873" duration="2055000" />
       <workItem from="1679123683284" duration="820000" />
-      <workItem from="1679187576178" duration="13529000" />
+      <workItem from="1679187576178" duration="14498000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1679120259557</created>
@@ -246,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679196462456</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="实现滚动分页查询">
+      <created>1679207985317</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679207985317</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +273,8 @@
     <MESSAGE value="添加redis本地地址" />
     <MESSAGE value="添加关注功能" />
     <MESSAGE value="添加用户共同关注功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加用户共同关注功能" />
+    <MESSAGE value="实现滚动分页查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现滚动分页查询" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
