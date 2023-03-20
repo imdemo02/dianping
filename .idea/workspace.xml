@@ -53,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -231,7 +232,8 @@
       <workItem from="1679187576178" duration="14498000" />
       <workItem from="1679278263564" duration="3742000" />
       <workItem from="1679284062385" duration="216000" />
-      <workItem from="1679284298687" duration="6576000" />
+      <workItem from="1679284298687" duration="7559000" />
+      <workItem from="1679320465596" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1679120259557</created>
@@ -289,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679291605191</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="签到功能">
+      <created>1679295456044</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679295456044</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +324,8 @@
     <MESSAGE value="实现滚动分页查询" />
     <MESSAGE value="更改地址" />
     <MESSAGE value="实现附近商铺功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现附近商铺功能" />
+    <MESSAGE value="签到功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="签到功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
